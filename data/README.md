@@ -2,6 +2,9 @@
 
 ## Folders
 
+source data:
+https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019
+
 ### raw
 Original, unmodified data after downloading, scraping, etc
 
